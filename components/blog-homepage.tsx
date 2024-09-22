@@ -31,17 +31,17 @@ export function BlogHomepageComponent() {
     {
       id: 1,
       title: "The Future of AI",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/image/futureofai.jpg?height=400&width=600",
     },
     {
       id: 2,
       title: "Web Development Trends 2024",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/image/webtrend.jpeg?height=400&width=600",
     },
     {
       id: 3,
       title: "Mastering React Hooks",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/image/reacthooks.png?height=400&width=600",
     },
   ];
 
