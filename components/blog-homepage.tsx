@@ -235,7 +235,7 @@ export function BlogHomepageComponent() {
                 className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-colors"
               >
                 <Image
-                  src="/placeholder.svg?height=200&width=400"
+                  src="/image/newblogpost.jpg?height=200&width=400"
                   alt="Post thumbnail"
                   width={400}
                   height={200}
